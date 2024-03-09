@@ -1,0 +1,110 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+     width: 100%;
+     height: 50px;
+     background-color: white;
+    display: flex;
+
+}
+#logo a img{
+    width: 43px;
+    height: 37px;
+    padding: 8px 16px 8px 16px;
+}
+nav a{
+    width: 70.516px;
+    height: 24px;
+    padding: 16px;
+    font-size: 18px;
+    text-decoration: none;
+    line-height: 46px;
+}
+nav img{
+    width: 12px;
+    height: 12px;
+}
+#search input{
+    width: 128px;
+    height: 24px;
+    padding: 5px 40px 5px 14px;
+    border: 1px solid black;
+    border-radius: 25px;
+
+
+
+}
+#theme a img{
+    height: 20px;
+    width: 20px;
+    padding: 8px;
+}
+#goal a img{
+    height: 20px;
+    width: 20px;
+    padding: 8px; 
+    margin-top: -5px;
+    /* margin: 15px; */
+    
+
+
+}
+
+#goal a{
+    text-decoration: none;
+    padding: 5px ;
+    line-height: 28px;
+    margin-top: 1px;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+    height: 25px;
+    width: 160px;
+    margin-left: 200px;
+
+   
+}
+#space a img{
+    height: 22px;
+    width: 22px;
+    /* line-height: 10px; */
+    margin-top: 10px;
+
+}
+#space a{
+    text-decoration: none;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 30px;
+    width: 83px;
+    margin-left: 20px;
+    line-height: 26px;
+    margin-top: 1px;
+    display: flex;
+
+
+}
+#getcertificates a img{
+height: 30px;
+width: 30px;
+}
+#getcertificates a {
+    text-decoration: none;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 30px;
+    width: 83px;
+    margin-left: 20px;
+    line-height: 26px;
+    margin-top: 20px;
+
+}
+section{
+    width: 100%;
+    height: 700px;
+    background-image: url(img/background_in_space.gif);
+}
